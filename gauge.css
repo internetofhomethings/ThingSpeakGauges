@@ -1,0 +1,8 @@
+<style type="text/css">
+  body { background-color: #ddd; }
+  #container { height: 100%; width: 100%; display: table; }
+  #inner { vertical-align: middle; display: table-cell; }
+  #gauge_in { padding-left:25px; margin: 0; float:left; }
+  #gauge_ou { margin: 0; float:left; }
+  #gauge_at { margin: 0; float:left; }
+</style>
